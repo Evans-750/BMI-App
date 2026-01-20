@@ -38,6 +38,11 @@ public class MainActivity extends AppCompatActivity {
                 double weight = Double.parseDouble(weightStr);
                 double height = Double.parseDouble(heightStr);
 
+                   if (height <= 0 || weight <= 0) {
+            tvResult.setText("Weight must be in kg and height in meters and greater than 0");
+            return;
+        }
+
                 double bmi = weight / (height * height);
 
                 String category;
