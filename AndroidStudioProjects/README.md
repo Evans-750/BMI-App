@@ -97,12 +97,17 @@ The result is displayed using a TextView, formatted to two decimal places and sh
 ________________________________________
 
 #6. Screenshots of the Application
+
 Screenshot 1: Application Home Screen
+
 •	Displays input fields for weight and height
 •	Shows the calculate button
+
  ![homescreen](BMIApp2\empty1.jpeg)
  
 Screenshot 2: BMI Calculation Result
+
 •	Displays calculated BMI value
 •	Shows BMI category
+
 ![output](BMIApp2\full.jpeg)
