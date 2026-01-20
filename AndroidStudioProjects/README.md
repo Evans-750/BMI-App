@@ -91,9 +91,9 @@ ________________________________________
 Screenshot 1: Application Home Screen
 •	Displays input fields for weight and height
 •	Shows the calculate button
- ![homescreen] (Saved Pictures\empty1.jpeg)
+ ![homescreen](BMIApp2\empty1.jpeg)
  
 Screenshot 2: BMI Calculation Result
 •	Displays calculated BMI value
 •	Shows BMI category
-![output] (Saved Pictures\full.jpeg)
+![output](BMIApp2\full.jpeg)
