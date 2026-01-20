@@ -6,11 +6,10 @@ This document provides a detailed description of the BMI Calculator Android Appl
 The application allows users to calculate their Body Mass Index (BMI) by entering their weight and height, and it classifies the result into standard health categories.
 
 The documentation covers: - Application overview 
-                     - Project structure
-                     - User interface design and layout
-                     - BMI calculation logic
-                   - Input validation and output handling
-                      - Screenshots description of the running application
+                         - User interface design and layout
+                         - BMI calculation logic
+                         - Input validation and output handling
+                         - Screenshots description of the running application
                       
 This document is intended for academic and development purposes and demonstrates a basic Android application implementation using event-driven programming.
 ________________________________________
